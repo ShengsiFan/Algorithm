@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="0054SpiralOrder" targetName="0054SpiralOrder" />
+      <config projectName="Test" targetName="Test" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179e4901-b712-473e-84a0-4e19ad43161d" name="Default Changelist" comment="" />
+    <list default="true" id="9218ac30-7917-440c-87d3-a310e0c2fa9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../0027RemoveElement/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0027RemoveElement/RemoveElement1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0027RemoveElement/RemoveElement1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0027RemoveElement/RemoveElement2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0027RemoveElement/RemoveElement2.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,26 +27,10 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Algorithm" />
-        <option value="Readme" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2LlWXGMIHE0OPDuuVmU2dbuBzAF" />
+  <component name="ProjectId" id="2Lqb2Xu5J6kb1fe2C2BUUPcEQpj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,12 +39,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
-    <configuration name="0054SpiralOrder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="0054SpiralOrder" TARGET_NAME="0054SpiralOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="0054SpiralOrder" RUN_TARGET_NAME="0054SpiralOrder">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Test" TARGET_NAME="Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Test" RUN_TARGET_NAME="Test">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -68,13 +63,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="179e4901-b712-473e-84a0-4e19ad43161d" name="Default Changelist" comment="" />
-      <created>1676446187436</created>
+      <changelist id="9218ac30-7917-440c-87d3-a310e0c2fa9d" name="Default Changelist" comment="" />
+      <created>1676601352607</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676446187436</updated>
-      <workItem from="1676446188812" duration="4954000" />
-      <workItem from="1676601160543" duration="23000" />
+      <updated>1676601352607</updated>
+      <workItem from="1676601354052" duration="2375000" />
     </task>
     <servers />
   </component>
@@ -91,6 +85,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

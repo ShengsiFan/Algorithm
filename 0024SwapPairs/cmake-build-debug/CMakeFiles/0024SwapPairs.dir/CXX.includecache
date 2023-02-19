@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0024SwapPairs/SwapPairs.cpp
+SwapPairs.h
+D:/Algorithm/0024SwapPairs/SwapPairs.h
+
+D:/Algorithm/0024SwapPairs/SwapPairs.h
+iostream
+-
+

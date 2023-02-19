@@ -1,0 +1,3 @@
+D:/Algorithm/0024SwapPairs/cmake-build-debug/CMakeFiles/0024SwapPairs.dir
+D:/Algorithm/0024SwapPairs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/0024SwapPairs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
