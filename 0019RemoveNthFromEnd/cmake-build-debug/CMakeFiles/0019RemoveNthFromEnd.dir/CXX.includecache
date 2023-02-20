@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0019RemoveNthFromEnd/RemoveNthFromEnd.cpp
+RemoveNthFromEnd.h
+D:/Algorithm/0019RemoveNthFromEnd/RemoveNthFromEnd.h
+
+D:/Algorithm/0019RemoveNthFromEnd/RemoveNthFromEnd.h
+iostream
+-
+
