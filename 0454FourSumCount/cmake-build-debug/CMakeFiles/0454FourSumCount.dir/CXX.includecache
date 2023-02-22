@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0454FourSumCount/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0454FourSumCount/vector
+unordered_map
+D:/Algorithm/0454FourSumCount/unordered_map
+
