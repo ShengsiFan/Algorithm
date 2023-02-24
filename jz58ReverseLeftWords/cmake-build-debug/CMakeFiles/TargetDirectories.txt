@@ -1,0 +1,3 @@
+D:/Algorithm/jz58ReverseLeftWords/cmake-build-debug/CMakeFiles/jz58ReverseLeftWords.dir
+D:/Algorithm/jz58ReverseLeftWords/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/jz58ReverseLeftWords/cmake-build-debug/CMakeFiles/rebuild_cache.dir

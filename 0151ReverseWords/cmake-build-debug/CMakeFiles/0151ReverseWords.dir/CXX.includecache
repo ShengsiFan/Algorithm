@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0151ReverseWords/main.cpp
+iostream
+-
+string
+D:/Algorithm/0151ReverseWords/string
+vector
+D:/Algorithm/0151ReverseWords/vector
+
