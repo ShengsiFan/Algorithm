@@ -1,0 +1,3 @@
+D:/Algorithm/0232StackToQueue/cmake-build-debug/CMakeFiles/0232StackToQueue.dir
+D:/Algorithm/0232StackToQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/0232StackToQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
