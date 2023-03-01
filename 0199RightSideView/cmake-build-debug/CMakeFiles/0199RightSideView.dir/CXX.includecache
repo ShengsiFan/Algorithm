@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0199RightSideView/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0199RightSideView/vector
+queue
+D:/Algorithm/0199RightSideView/queue
+

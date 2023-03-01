@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0637AverageOfLevels/main.cpp
+iostream
+-
+queue
+D:/Algorithm/0637AverageOfLevels/queue
+vector
+D:/Algorithm/0637AverageOfLevels/vector
+

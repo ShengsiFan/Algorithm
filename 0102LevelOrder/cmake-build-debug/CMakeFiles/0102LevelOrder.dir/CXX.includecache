@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0102LevelOrder/main.cpp
+iostream
+-
+queue
+D:/Algorithm/0102LevelOrder/queue
+vector
+D:/Algorithm/0102LevelOrder/vector
+

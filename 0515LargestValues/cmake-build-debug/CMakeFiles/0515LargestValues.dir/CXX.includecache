@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0515LargestValues/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0515LargestValues/vector
+queue
+D:/Algorithm/0515LargestValues/queue
+

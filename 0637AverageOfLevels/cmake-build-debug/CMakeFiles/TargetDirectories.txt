@@ -1,0 +1,3 @@
+D:/Algorithm/0637AverageOfLevels/cmake-build-debug/CMakeFiles/0637AverageOfLevels.dir
+D:/Algorithm/0637AverageOfLevels/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/0637AverageOfLevels/cmake-build-debug/CMakeFiles/rebuild_cache.dir

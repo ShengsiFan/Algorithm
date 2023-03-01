@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0239MaxSlidingWindow/main2.cpp
+iostream
+-
+vector
+D:/Algorithm/0239MaxSlidingWindow/vector
+deque
+D:/Algorithm/0239MaxSlidingWindow/deque
+

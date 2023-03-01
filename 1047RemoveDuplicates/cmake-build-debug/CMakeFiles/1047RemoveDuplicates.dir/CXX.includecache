@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/1047RemoveDuplicates/main.cpp
+iostream
+-
+stack
+D:/Algorithm/1047RemoveDuplicates/stack
+string
+D:/Algorithm/1047RemoveDuplicates/string
+
