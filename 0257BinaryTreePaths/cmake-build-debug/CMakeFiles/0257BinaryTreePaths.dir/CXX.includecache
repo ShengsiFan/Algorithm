@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0257BinaryTreePaths/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0257BinaryTreePaths/vector
+string
+D:/Algorithm/0257BinaryTreePaths/string
+
