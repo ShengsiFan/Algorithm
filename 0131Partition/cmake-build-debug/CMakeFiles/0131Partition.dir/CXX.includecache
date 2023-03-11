@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0131Partition/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0131Partition/vector
+string
+D:/Algorithm/0131Partition/string
+

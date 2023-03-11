@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0017LetterCombinations/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0017LetterCombinations/vector
+string
+D:/Algorithm/0017LetterCombinations/string
+

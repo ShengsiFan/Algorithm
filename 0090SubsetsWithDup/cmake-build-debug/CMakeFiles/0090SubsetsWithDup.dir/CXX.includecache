@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0090SubsetsWithDup/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0090SubsetsWithDup/vector
+algorithm
+D:/Algorithm/0090SubsetsWithDup/algorithm
+

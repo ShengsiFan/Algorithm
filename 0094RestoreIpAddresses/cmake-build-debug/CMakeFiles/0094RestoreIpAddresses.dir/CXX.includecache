@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0094RestoreIpAddresses/main.cpp
+iostream
+-
+string
+D:/Algorithm/0094RestoreIpAddresses/string
+vector
+D:/Algorithm/0094RestoreIpAddresses/vector
+
