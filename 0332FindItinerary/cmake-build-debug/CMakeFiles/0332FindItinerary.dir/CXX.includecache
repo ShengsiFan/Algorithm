@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0332FindItinerary/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0332FindItinerary/vector
+unordered_map
+D:/Algorithm/0332FindItinerary/unordered_map
+map
+D:/Algorithm/0332FindItinerary/map
+string
+D:/Algorithm/0332FindItinerary/string
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0051SolveNQueens/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0051SolveNQueens/vector
+string
+D:/Algorithm/0051SolveNQueens/string
+

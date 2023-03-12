@@ -1,0 +1,3 @@
+D:/Algorithm/046Permute/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Algorithm/046Permute/cmake-build-debug/CMakeFiles/046Permute.dir
+D:/Algorithm/046Permute/cmake-build-debug/CMakeFiles/edit_cache.dir
