@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shengsifan/workspace/cpp/0756MinCostClimbingStairs/main.cpp
+iostream
+-
+vector
+/home/shengsifan/workspace/cpp/0756MinCostClimbingStairs/vector
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0756MinCostClimbingStairs.dir/main.cpp.o -o 0756MinCostClimbingStairs 
