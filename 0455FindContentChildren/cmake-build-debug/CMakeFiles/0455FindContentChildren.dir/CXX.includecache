@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0455FindContentChildren/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0455FindContentChildren/vector
+algorithm
+D:/Algorithm/0455FindContentChildren/algorithm
+
