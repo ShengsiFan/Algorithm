@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution {
 public:
-    int wiggleMaxLength(vector<int>& nums) {
+    int wiggleMaxLength(vector<int> &nums) {
         if (nums.size() <= 1) return nums.size();
         int curDiff = 0; // 当前一对差值
         int preDiff = 0; // 前一对差值
@@ -23,7 +23,7 @@ public:
 };
 
 int main() {
-    vector<int> nums = {1,2,1,5};
+    vector<int> nums = {1, 2, 1, 5};
     Solution s;
     cout << s.wiggleMaxLength(nums);
     return 0;

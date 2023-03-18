@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0063UniquePathsWithObstacles/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0063UniquePathsWithObstacles/vector
+
