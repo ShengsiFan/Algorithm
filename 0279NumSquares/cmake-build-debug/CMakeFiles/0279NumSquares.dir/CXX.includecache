@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0279NumSquares/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0279NumSquares/vector
+climits
+D:/Algorithm/0279NumSquares/climits
+

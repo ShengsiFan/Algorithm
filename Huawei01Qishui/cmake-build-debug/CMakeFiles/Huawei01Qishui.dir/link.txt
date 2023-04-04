@@ -1,0 +1,3 @@
+"E:\Softwares\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Huawei01Qishui.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Huawei01Qishui.dir/objects.a @CMakeFiles\Huawei01Qishui.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Huawei01Qishui.dir/objects.a -Wl,--no-whole-archive  -o Huawei01Qishui.exe -Wl,--out-implib,libHuawei01Qishui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Huawei01Qishui.dir\linklibs.rsp

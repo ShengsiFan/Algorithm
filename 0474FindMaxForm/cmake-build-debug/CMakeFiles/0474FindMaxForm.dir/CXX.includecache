@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0474FindMaxForm/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0474FindMaxForm/vector
+string
+D:/Algorithm/0474FindMaxForm/string
+

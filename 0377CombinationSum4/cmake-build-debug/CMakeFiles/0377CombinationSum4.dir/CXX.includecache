@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/0377CombinationSum4/main.cpp
+iostream
+-
+vector
+D:/Algorithm/0377CombinationSum4/vector
+climits
+D:/Algorithm/0377CombinationSum4/climits
+

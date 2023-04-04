@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/Huawei05zifujihe/main.cpp
+iostream
+-
+array
+D:/Algorithm/Huawei05zifujihe/array
+string
+D:/Algorithm/Huawei05zifujihe/string
+

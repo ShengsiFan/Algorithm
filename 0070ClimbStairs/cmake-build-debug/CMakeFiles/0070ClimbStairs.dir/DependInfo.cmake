@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shengsifan/workspace/cpp/0070ClimbStairs/main.cpp" "/home/shengsifan/workspace/cpp/0070ClimbStairs/cmake-build-debug/CMakeFiles/0070ClimbStairs.dir/main.cpp.o"
+  "D:/Algorithm/0070ClimbStairs/Method2.cpp" "D:/Algorithm/0070ClimbStairs/cmake-build-debug/CMakeFiles/0070ClimbStairs.dir/Method2.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

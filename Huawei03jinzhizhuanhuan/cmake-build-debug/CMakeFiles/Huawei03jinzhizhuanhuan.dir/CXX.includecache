@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algorithm/Huawei03jinzhizhuanhuan/main.cpp
+iostream
+-
+string
+D:/Algorithm/Huawei03jinzhizhuanhuan/string
+

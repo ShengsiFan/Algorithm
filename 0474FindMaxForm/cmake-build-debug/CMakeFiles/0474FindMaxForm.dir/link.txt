@@ -1,0 +1,3 @@
+"E:\Softwares\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\0474FindMaxForm.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\0474FindMaxForm.dir/objects.a @CMakeFiles\0474FindMaxForm.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\0474FindMaxForm.dir/objects.a -Wl,--no-whole-archive  -o 0474FindMaxForm.exe -Wl,--out-implib,lib0474FindMaxForm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\0474FindMaxForm.dir\linklibs.rsp

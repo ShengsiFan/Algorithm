@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "0070ClimbStairs"
+  "0070ClimbStairs.exe"
+  "0070ClimbStairs.exe.manifest"
   "0070ClimbStairs.pdb"
-  "CMakeFiles/0070ClimbStairs.dir/main.cpp.o"
+  "CMakeFiles/0070ClimbStairs.dir/Method2.cpp.obj"
+  "lib0070ClimbStairs.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

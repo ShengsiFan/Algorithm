@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/shengsifan/workspace/cpp/0070ClimbStairs/main.cpp
+D:/Algorithm/0070ClimbStairs/Method2.cpp
 iostream
 -
+vector
+D:/Algorithm/0070ClimbStairs/vector
+climits
+D:/Algorithm/0070ClimbStairs/climits
 
