@@ -1,0 +1,17 @@
+# ninja log v5
+2	478	7024882896113281	CMakeFiles/0647CountSubstrings.dir/main.cpp.obj	3bafc6db50c1a81c
+479	641	7024882897679843	0647CountSubstrings.exe	49e4d2f5377943d
+0	377	7024893385064158	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+379	616	7024893387379847	0647CountSubstrings.exe	910ba08a0678d2e6
+3	389	7024893534849561	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+389	628	7024893537183204	0647CountSubstrings.exe	910ba08a0678d2e6
+1	338	7024893630834357	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+338	487	7024893632267832	0647CountSubstrings.exe	910ba08a0678d2e6
+2	390	7024897379582493	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+391	637	7024897381980403	0647CountSubstrings.exe	910ba08a0678d2e6
+2	382	7024897445252785	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+383	651	7024897447881293	0647CountSubstrings.exe	910ba08a0678d2e6
+2	334	7024897517168118	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+334	487	7024897518643618	0647CountSubstrings.exe	910ba08a0678d2e6
+2	334	7024897556744692	CMakeFiles/0647CountSubstrings.dir/main2.cpp.obj	a293ee27ba1dbc77
+335	484	7024897558186849	0647CountSubstrings.exe	910ba08a0678d2e6
