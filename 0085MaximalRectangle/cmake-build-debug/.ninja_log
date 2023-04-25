@@ -1,0 +1,23 @@
+# ninja log v5
+0	350	7039355948089266	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+352	530	7039355949826947	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	617	7039390563834116	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+617	874	7039390566357513	0085MaximalRectangle.exe	7f1ea6123c93197a
+3	610	7039390735442892	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+610	855	7039390737845231	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	610	7039392404942162	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+610	773	7039392406533520	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	712	7039393375354940	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+712	876	7039393376945339	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	662	7039394151492121	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+662	864	7039394153463628	0085MaximalRectangle.exe	7f1ea6123c93197a
+3	681	7039395211659952	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+682	926	7039395214061908	0085MaximalRectangle.exe	7f1ea6123c93197a
+3	795	7039397039020066	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+795	1060	7039397041732212	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	862	7039531806511899	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+862	1191	7039531809749848	0085MaximalRectangle.exe	7f1ea6123c93197a
+2	705	7039536546744992	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+705	957	7039536549208465	0085MaximalRectangle.exe	7f1ea6123c93197a
+3	773	7039559174880016	CMakeFiles/0085MaximalRectangle.dir/main.cpp.obj	f3f4ace5b1f2f845
+773	1042	7039559177524448	0085MaximalRectangle.exe	7f1ea6123c93197a

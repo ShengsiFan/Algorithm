@@ -13,7 +13,7 @@ public:
         for (int i = 1; i < grid.size(); i++) for (int j = 1; j < grid[i].size(); j++) dp[i][j] = min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j];
         return dp.back().back();
     }
-};
+};  
 
 int main() {
     vector<vector<int>> grid = {{1}};
