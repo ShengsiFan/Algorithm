@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Huawei04shanshu.dir/main.cpp.obj"
+  "CMakeFiles/Huawei04shanshu.dir/main.cpp.obj.d"
   "Huawei04shanshu.exe"
   "Huawei04shanshu.exe.manifest"
   "Huawei04shanshu.pdb"

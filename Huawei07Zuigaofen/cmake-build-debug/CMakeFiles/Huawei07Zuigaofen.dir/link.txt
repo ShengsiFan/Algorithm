@@ -1,3 +1,3 @@
-"E:\Softwares\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Huawei07Zuigaofen.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Huawei07Zuigaofen.dir/objects.a @CMakeFiles\Huawei07Zuigaofen.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Huawei07Zuigaofen.dir/objects.a -Wl,--no-whole-archive  -o Huawei07Zuigaofen.exe -Wl,--out-implib,libHuawei07Zuigaofen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Huawei07Zuigaofen.dir\linklibs.rsp
+"E:\Softwares\CLion\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Huawei07Zuigaofen.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Huawei07Zuigaofen.dir/objects.a @CMakeFiles\Huawei07Zuigaofen.dir\objects1
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Huawei07Zuigaofen.dir/objects.a -Wl,--no-whole-archive -o Huawei07Zuigaofen.exe -Wl,--out-implib,libHuawei07Zuigaofen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Huawei07Zuigaofen.dir\linkLibs.rsp

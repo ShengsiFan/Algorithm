@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Huawei05zifujihe.dir/main.cpp.obj"
+  "CMakeFiles/Huawei05zifujihe.dir/main.cpp.obj.d"
   "Huawei05zifujihe.exe"
   "Huawei05zifujihe.exe.manifest"
   "Huawei05zifujihe.pdb"

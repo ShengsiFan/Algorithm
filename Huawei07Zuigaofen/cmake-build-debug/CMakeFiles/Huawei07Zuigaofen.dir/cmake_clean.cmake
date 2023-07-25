@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Huawei07Zuigaofen.dir/main.cpp.obj"
+  "CMakeFiles/Huawei07Zuigaofen.dir/main.cpp.obj.d"
   "Huawei07Zuigaofen.exe"
   "Huawei07Zuigaofen.exe.manifest"
   "Huawei07Zuigaofen.pdb"

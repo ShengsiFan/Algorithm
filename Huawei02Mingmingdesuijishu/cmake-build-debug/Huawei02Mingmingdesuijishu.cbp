@@ -17,16 +17,6 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="Huawei02Mingmingdesuijishu">
 				<Option output="D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Huawei02Mingmingdesuijishu.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug"/>
@@ -74,6 +64,16 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
 					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/Huawei02Mingmingdesuijishu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
