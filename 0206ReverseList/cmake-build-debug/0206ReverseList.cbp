@@ -8,85 +8,87 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/Algorithm/0206ReverseList/cmake-build-debug"/>
+				<Option working_dir="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="D:/Algorithm/0206ReverseList/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="0206ReverseList">
-				<Option output="D:/Algorithm/0206ReverseList/cmake-build-debug/0206ReverseList.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/Algorithm/0206ReverseList/cmake-build-debug"/>
+				<Option output="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/0206ReverseList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 0206ReverseList"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 0206ReverseList"/>
+					<CompileFile command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="0206ReverseList/fast">
-				<Option output="D:/Algorithm/0206ReverseList/cmake-build-debug/0206ReverseList.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/Algorithm/0206ReverseList/cmake-build-debug"/>
+				<Option output="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/0206ReverseList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Softwares/CLion 2023.1.5/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 0206ReverseList/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 0206ReverseList/fast"/>
+					<CompileFile command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/Algorithm/0206ReverseList/cmake-build-debug"/>
+				<Option working_dir="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/SOFTWA~1/CLION2~1.5/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/94925/Desktop/Algorithm/0206ReverseList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Algorithm/0206ReverseList/ReverseList.cpp">
+		<Unit filename="C:/Users/94925/Desktop/Algorithm/0206ReverseList/ReverseList.cpp">
 			<Option target="0206ReverseList"/>
 		</Unit>
-		<Unit filename="D:/Algorithm/0206ReverseList/ReverseList.h">
+		<Unit filename="C:/Users/94925/Desktop/Algorithm/0206ReverseList/ReverseList.h">
 			<Option target="0206ReverseList"/>
 		</Unit>
-		<Unit filename="D:/Algorithm/0206ReverseList/CMakeLists.txt">
+		<Unit filename="C:/Users/94925/Desktop/Algorithm/0206ReverseList/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

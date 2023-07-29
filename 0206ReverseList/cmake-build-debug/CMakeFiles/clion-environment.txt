@@ -1,4 +1,4 @@
-ToolSet: 5.0 (local)@C:\MinGW
+ToolSet: w64 9.0 (local)@C:\Softwares\CLion 2023.1.5\bin\mingw
 Options: 
 
 Options:

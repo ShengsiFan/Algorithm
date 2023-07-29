@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "0206ReverseList.exe.manifest"
   "0206ReverseList.pdb"
   "CMakeFiles/0206ReverseList.dir/ReverseList.cpp.obj"
+  "CMakeFiles/0206ReverseList.dir/ReverseList.cpp.obj.d"
   "lib0206ReverseList.dll.a"
 )
 
